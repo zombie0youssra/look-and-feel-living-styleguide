@@ -5,7 +5,7 @@ Ontwerp en maak een living styleguide voor een opdrachtgever
 
 ## Context
 
-Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je in een team uitvoert.
 
 In het college ... wordt uitgelegd wat een living styleguide is.
 
@@ -28,7 +28,8 @@ Je leert wat een living styleguide is, hoe je een living styleguide kan maken en
 Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstijl en het maken van formulieren.
 
 Deze deeltaak hoort bij het gedragscriterium:  
-P: Gebruikt aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving om een passende oplossing voor een opdrachtgever te realiseren
+
+Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback
 
 Deze opdracht is done als je:
 
