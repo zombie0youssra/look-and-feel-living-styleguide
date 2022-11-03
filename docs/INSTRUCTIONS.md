@@ -1,7 +1,7 @@
 
 # Look and Feel - Living Styleguide
 
-Ontwerp en maak een living styleguide voor een opdrachtgever
+Ontwerp en maak een living styleguide voor een opdrachtgever.
 
 ## Context
 
