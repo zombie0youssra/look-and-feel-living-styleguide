@@ -16,7 +16,7 @@ Een living styleguide is essentieel voor het begrijpen en overbrengen van de loo
 
 ## Werkwijze
 
-De living styleguide zit in de analyse fase van de Dev Life Cycle. Welke kleuren en typografie worden gebruikt in de huisstijl? Wat zijn overeenkomstige elementen van de verschillende pagina's / componenten? Hoe ziet de layout van verschillende onderdelen eruit? En hoe gedraagt de website zich in verschillende contexten (responsive desgin). Welke HTML en CSS is nodig om de elementen van styleguide op te maken en vorm te geven?
+De living styleguide zit in de analyse en ontwerp fase van de Dev Life Cycle. Welke kleuren en typografie worden gebruikt in de huisstijl? Wat zijn overeenkomstige elementen van de verschillende pagina's / componenten? Hoe ziet de layout van verschillende onderdelen eruit? En hoe gedraagt de website zich in verschillende contexten (responsive desgin). Welke HTML en CSS is nodig om de elementen van styleguide op te maken en vorm te geven?
 
 - Fork deze leertaak
 - Voer een Interface Inventory uit
