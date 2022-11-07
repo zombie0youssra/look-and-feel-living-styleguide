@@ -22,8 +22,8 @@ De living styleguide zit in de analyse en ontwerp fase van de Dev Life Cycle. We
 - Voer een Interface Inventory uit
 - Kijk of je bij de website van de opdrachtgever een HTML en CSS strategie kan ontdekken
 - Maak afspraken over HTML structuur & semantiek en CSS
+- Maak afspraken over de naamgeving van classes en id's
 - Maak een styleguide webpagina met HTML en CSS
-
 
 ## Criteria
 
@@ -35,8 +35,9 @@ Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen f
 
 Deze opdracht is done als je:
 
-- [ ] een Interface Inventory hebt opgenomen in de wiki van je geforkte repository
+- [ ] een Interface Inventory hebt opgenomen in de wiki
 - [ ] de analyse van de HTML en CSS van de bestaande website hebt gedocumenteerd in de wiki
-- [ ] afspraken over HTML en CSS hebt gedocumenteerd in de wike
+- [ ] afspraken over HTML, CSS en naamgeving hebt gedocumenteerd in de wiki
 - [ ] een opzet van de living styleguide hebt gemaakt met HTML en CSS
+- [ ] de living styleguide te bekijken is via Github pages
 
