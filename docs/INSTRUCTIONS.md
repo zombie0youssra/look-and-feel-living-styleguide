@@ -7,21 +7,23 @@ Ontwerp en maak een living styleguide voor een opdrachtgever.
 
 Deze deeltaak hoort bij sprint 4 Look and Feel. Dit is een deeltaak die je in een team uitvoert.
 
-In het college ... wordt uitgelegd wat een living styleguide is.
+In het college Workshop Living Styleguide wordt uitgelegd wat een living styleguide is en wat het nut ervan is.
 
 
 ## Doel van deze opdracht
 
-Je leert wat een living styleguide is, hoe je een living styleguide kan maken en toepassen
-
+Een living styleguide is essentieel voor het begrijpen en overbrengen van de look and feel van een website. Het geeft een gedeeld begrip van alle teamleden over hoe iets eruit moet zien en hoe markup (HTML) en vormgeving (CSS) moeten worden toegepast. Een living styleguide helpt bij het ontwerpen en bouwen van een website met consistente look and feel in de huisstijl van een opdrachtgever.
 
 ## Werkwijze
 
-...
+De living styleguide zit in de analyse fase van de Dev Life Cycle. Welke kleuren en typografie worden gebruikt in de huisstijl? Wat zijn overeenkomstige elementen van de verschillende pagina's / componenten? Hoe ziet de layout van verschillende onderdelen eruit? En hoe gedraagt de website zich in verschillende contexten (responsive desgin). Welke HTML en CSS is nodig om de elementen van styleguide op te maken en vorm te geven?
 
-- ...
-- ...
-- ...
+- Fork deze leertaak
+- Voer een Interface Inventory uit
+- Kijk of je bij de website van de opdrachtgever een HTML en CSS strategie kan ontdekken
+- Maak afspraken over HTML structuur & semantiek en CSS
+- Maak een styleguide webpagina met HTML en CSS
+
 
 ## Criteria
 
@@ -33,7 +35,8 @@ Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen f
 
 Deze opdracht is done als je:
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] een Interface Inventory hebt opgenomen in de wiki van je geforkte repository
+- [ ] de analyse van de HTML en CSS van de bestaande website hebt gedocumenteerd in de wiki
+- [ ] afspraken over HTML en CSS hebt gedocumenteerd in de wike
+- [ ] een opzet van de living styleguide hebt gemaakt met HTML en CSS
 
