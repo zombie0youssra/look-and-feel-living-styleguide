@@ -68,7 +68,7 @@ Je hebt inmiddels vast een beeld bij wat een huisstijl is. De meeste opdrachtgev
 
 Een *living styleguide* of levende stijlgids biedt het antwoord op de tragisch statische handboeken van weleer. De *living styleguide* is een modern huisstijlhandboek welke in de browser leeft, het is een website over websites van een organisatie. *Living* heeft hierbij een dubbele betekenis. Enerzijds is het een live, toegankelijke en semantische verzameling huisstijlcomponenten. Anderzijds is het een up-to-date huisstijl welke bijgehouden wordt als ontwerpbeslissingen genomen worden, dus *living* in de zin van groei.
 
-Een goed voorbeeld van een levende stijlgids is [Familysearch Styleguide](https://www.familysearch.org/frontier/styleguide/) uit een artikel van Steven Lambert op Smashing Magazine. Het artikel staat onderaan bij ‘Meer lezen?’ mocht je het willen lezen.
+Goede voorbeelden van een levende stijlgids zijn de [Decathlon Design System](https://www.decathlon.design/726f8c765/p/75e137-digital-overview) of de  [Familysearch Styleguide](https://www.familysearch.org/frontier/styleguide/) uit een artikel van Steven Lambert op Smashing Magazine. Het artikel staat onderaan bij ‘Meer lezen?’ mocht je het willen lezen.
 
 **N.B: Jullie maken één living styleguide per opdrachtgever. Het is aan te raden teamleden als member toe te voegen op één repository en daar in samen te werken. Als het project af is kan je die repository forken om het project op te nemen in je eigen portfolio.**
 
