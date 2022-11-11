@@ -33,7 +33,7 @@ Een *interface inventory* is een goed middel om een opdrachtgever of werkgever o
 #### Voer een interface audit uit:
  
  1. **Open het project.** Zorg dat je weet hoe je specifieke screenshots moet maken (een selectie en niet je hele scherm).
- 2. **Zet een blanco template op.** Hier dump en categoriseer je de componenten van de interface. Keynote of PowerPoint werken prima, alles wat je nodig hebt zijn een categorie titel en een plek om screenshots te dumpen.
+ 2. **Zet een blanco template op.** Hier dump en categoriseer je de componenten van de interface. Doe dit bij voorkeur in de wiki van de deeltaak. Alles wat je nodig hebt zijn een categorie titel en een plek om screenshots te dumpen.
  3. **Begin met screenshotten.** Nu het leuke gedeelte. Neem screenshots van de ingrediënten van jouw interface. Je doel is om unieke versies van componenten te vangen. Hier een mogelijke categorisering (kies wat van toepassing is op jouw project!):
     - Globals: header, footer en andere globale elementen
     - Navigatie: primair, footer, paginering, kruimelpad, …
@@ -64,10 +64,30 @@ Een *interface inventory* is een goed middel om een opdrachtgever of werkgever o
 
 ### Ontwerpen
 
-- Kijk of je bij de website van de opdrachtgever een HTML en CSS strategie kan ontdekken
-- Maak afspraken over HTML structuur & semantiek en CSS
-- Maak afspraken over de naamgeving van classes en id's
-- Maak een styleguide webpagina met HTML en CSS
+Je hebt inmiddels vast een beeld bij wat een huisstijl is. De meeste opdrachtgevers van FDND-Agency maken gebruik van een of andere styleguide waarin de huisstijl vastgelegd is. Bekijk als voorbeeld de [huisstijl van de Hogeschool van Amsterdam](https://www.hva.nl/praktisch/algemeen/hva-breed/communicatie/hva-huisstijl/hva-huisstijl.html). Een groot nadeel van traditionele huisstijlhandboeken is dat ze meestal in de vorm van een PDF gemaakt worden. De reden daarvoor is dat ontwerpers dit van oudsher zo gewend zijn te doen. Voor een toegankelijk ontwerp in een responsive omgeving is dit echter niet genoeg. Frontenders willen weten hoe een logo zich gedraagt als er weinig ruimte, een beetje meer ruimte én veel of zelfs heel veel ruimte is. Kortom, we hebben behoefte aan een responsive variant op het klassieke huisstijlhandboek.
+
+Een *living styleguide* of levende stijlgids biedt het antwoord op de tragisch statische handboeken van weleer. De *living styleguide* is een modern huisstijlhandboek welke in de browser leeft, het is een website over websites van een organisatie. *Living* heeft hierbij een dubbele betekenis. Enerzijds is het een live, toegankelijke en semantische verzameling huisstijlcomponenten. Anderzijds is het een up-to-date huisstijl welke bijgehouden wordt als ontwerpbeslissingen genomen worden, dus *living* in de zin van groei.
+
+Een goed voorbeeld van een levende stijlgids is [Familysearch Styleguide](https://www.familysearch.org/frontier/styleguide/) uit een artikel van Steven Lambert op Smashing Magazine. Het artikel staat onderaan bij ‘Meer lezen?’ mocht je het willen lezen.
+
+**N.B: Jullie maken één living styleguide per opdrachtgever. Het is aan te raden teamleden als member toe te voegen op één repository en daar in samen te werken. Als het project af is kan je die repository forken om het project op te nemen in je eigen portfolio.**
+
+#### Maak een living styleguide
+Alhoewel bedrijven vaak aandacht besteden aan het uiterlijk van de living styleguide gaat het in dit geval écht om de inhoud. Richt je dus in eerste instantie daar op. In deze repository is een voorbeeldstructuur opgenomen maar deze mag je naar eigen inzicht volledig aanpassen.
+
+1. **Kies een categorie** uit de interface inventory en onderzoek of je overeenkomsten kunt ontdekken.  Als je met een team werkt kan je categorieën verdelen. Het is aan te raden in verschillende bestanden te werken.
+2. **Schrijf HTML**. Kies de best passende elementen en neem die met nette, toegankelijke en semantische HTML op in het betreffende bestand.  Blijf zo dicht mogelijk bij het origineel van de opdrachtgever (dus gebruik de originele huisstijl).
+3. **Schrijf CSS**. Schrijf CSS voor de zojuist opgenomen elementen. Zorg dat 
+4. **Maak een voorbeeld** voor frontenders die deze *living styleguide* gebruiken. Het handigste is om dit tussen `<pre>` en `<code>` tags te doen zoals in het onderstaande voorbeeld:\
+```
+<pre>
+<code>
+  <h1>Heading Level 1</h1>
+</code>
+</pre>
+```
+5. **Schrijf uitleg** over hoe de elementen wel en niet gebruikt mogen worden.
+6. **Ga terug naar 1**. Je gaat door tot alle nodige elementen in de *living styleguide* zijn opgenomen.
 
 #### Meer lezen?
 
@@ -79,13 +99,11 @@ Focus sprint 4 - De focus van deze sprint ligt op het toepassen van een huisstij
 
 Deze deeltaak hoort bij het gedragscriterium:  
 
-Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback
+Samenwerken: Draagt verantwoording voor eigen resultaten en verwerkt ontvangen feedback.
 
-Deze opdracht is done als je:
+Deze opdracht is done als:
 
-- [ ] een Interface Inventory hebt opgenomen in de wiki
-- [ ] de analyse van de HTML en CSS van de bestaande website hebt gedocumenteerd in de wiki
-- [ ] afspraken over HTML, CSS en naamgeving hebt gedocumenteerd in de wiki
-- [ ] een opzet van de living styleguide hebt gemaakt met HTML en CSS
+- [ ] een Interface Inventory is opgenomen in de wiki
+- [ ] een living styleguide is gemaakt met HTML en CSS
 - [ ] de living styleguide te bekijken is via Github pages
 
